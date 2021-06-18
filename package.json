@@ -1,0 +1,16 @@
+{
+  "name": "botmx",
+  "version": "1.0.0",
+  "description": "Um simples bot de ticket para a MX Store",
+  "main": "app.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "Xisto#0006",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "sourcebin_js": "0.0.3-ignore"
+  }
+}
